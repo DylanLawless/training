@@ -1,6 +1,6 @@
 ## Manage Recruitment Successfully
-
 ### Module 1 Ensure a structured recruitment process
+Module summary:
 	* How should recruiters approach interviews?
 	* Conducting a recruitment interview with an experienced executive
 	* Preparing to recruit an experienced executive
@@ -71,6 +71,7 @@ STEP 3: Identify the skills that need to be assessed during the interview
 | Total points | | | |
 
 ### Module 2 Competency-based interviews
+Module summary:
 	* How to conduct performance reviews
 	* The future of performance appraisals
 	* Use empathy to make your performance review a success
@@ -78,6 +79,7 @@ STEP 3: Identify the skills that need to be assessed during the interview
 	* How to conduct performance reviews
 
 ### Module 3 Question and reformulation techniques
+Module summary:
 	* Don't tell, ask
 	* Asking questions
 	* Rephrasing
@@ -85,6 +87,7 @@ STEP 3: Identify the skills that need to be assessed during the interview
 	* Preparing the wording of a request
 
 ### Module 4 Master the recruitment process
+Module summary:
 	* Concluding the recruitment process
 	* There are no short cuts in a good hiring process
 	* Always hire for attitude

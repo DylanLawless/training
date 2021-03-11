@@ -14,7 +14,7 @@ output:
     #citation_package: natbib
     number_sections: true
     toc: yes
-    toc_depth: 2
+    toc_depth: 3
     
 link-citations: yes
 linkcolor: blue
@@ -39,7 +39,7 @@ EPFL courses - Management training:
 <https://epfl.eu.crossknowledge.com/site/channel/248>
 
 # Chapter 1 - Management
-```{r child = './manage_recruitment_successfully.md'}
+```{r child = './management/manage_recruitment_successfully.md'}
 ```
 # Chapter 2 - Personal Efficiency
 
