@@ -1,10 +1,10 @@
 ## Manage Recruitment Successfully
 ### Module 1 Ensure a structured recruitment process
-Module summary:
-	* How should recruiters approach interviews?
-	* Conducting a recruitment interview with an experienced executive
-	* Preparing to recruit an experienced executive
-	* Deciding between experienced candidates when recruiting
+* Module summary:
+	+ How should recruiters approach interviews?
+	+ Conducting a recruitment interview with an experienced executive
+	+ Preparing to recruit an experienced executive
+	+ Deciding between experienced candidates when recruiting
 
 #### How should recruiters approach interviews?
 * Questions about: Record, Accomplished, Skills
@@ -50,14 +50,17 @@ Explain how interview will proceed.
 
 #### Preparing to recruit an experienced executive
 STEP 1: Make a list of the criteria that need to be met in order to be eligible for the post
+
 * Begin with a description of the post.
 * List the essential requirements: training, professional experience, languages spoken, etc.
 
 STEP 2: Select the candidates to be interviewed
+
 * Use your list of criteria to select candidates on the basis of their CVs.
 * Be flexible in the use of standard profiles such as these: know how to recognise profiles that are worthwhile even if they are not standard.
 
 STEP 3: Identify the skills that need to be assessed during the interview
+
 * Begin with a description of the post to be filled.
 * Identify the skills that are essential for succeeding in it.
 
@@ -71,25 +74,25 @@ STEP 3: Identify the skills that need to be assessed during the interview
 | Total points | | | |
 
 ### Module 2 Competency-based interviews
-Module summary:
-	* How to conduct performance reviews
-	* The future of performance appraisals
-	* Use empathy to make your performance review a success
-	* Getting staff members to express themselves during performance reviews
-	* How to conduct performance reviews
+* Module summary:
+	+ How to conduct performance reviews
+	+ The future of performance appraisals
+	+ Use empathy to make your performance review a success
+	+ Getting staff members to express themselves during performance reviews
+	+ How to conduct performance reviews
 
 ### Module 3 Question and reformulation techniques
-Module summary:
-	* Don't tell, ask
-	* Asking questions
-	* Rephrasing
-	* Preparing the wording for giving feedback
-	* Preparing the wording of a request
+* Module summary:
+	+ Don't tell, ask
+	+ Asking questions
+	+ Rephrasing
+	+ Preparing the wording for giving feedback
+	+ Preparing the wording of a request
 
 ### Module 4 Master the recruitment process
-Module summary:
-	* Concluding the recruitment process
-	* There are no short cuts in a good hiring process
-	* Always hire for attitude
-	* Cultural fit is the key
-	* Recruit 'adults'
+* Module summary:
+	+ Concluding the recruitment process
+	+ There are no short cuts in a good hiring process
+	+ Always hire for attitude
+	+ Cultural fit is the key
+	+ Recruit 'adults'
