@@ -1,30 +1,30 @@
-# MANAGE RECRUITMENT SUCCESSFULLY
+## Manage Recruitment Successfully
 
-* Module 1 Ensure a structured recruitment process
-	+ How should recruiters approach interviews?
-	+ Conducting a recruitment interview with an experienced executive
-	+ Preparing to recruit an experienced executive
-	+ Deciding between experienced candidates when recruiting
+### Module 1 Ensure a structured recruitment process
+	* How should recruiters approach interviews?
+	* Conducting a recruitment interview with an experienced executive
+	* Preparing to recruit an experienced executive
+	* Deciding between experienced candidates when recruiting
 
-## How should recruiters approach interviews?
+#### How should recruiters approach interviews?
 * Questions about: Record, Accomplished, Skills
 * Give realistic exceptions to allow long empoyee retention.
 * Same questions to each for compare.
 
-## Conducting a recruitment interview with an experienced executive
+#### Conducting a recruitment interview with an experienced executive
 
 Same Q to all candidates.
 Notes during interview.
 It is not about taking them out of their comfort zone. 
 Explain how interview will proceed.
 
-### Main issues to discuss
+##### Main issues to discuss
 
 - Can do (abilities and problem solving).
 - Fit (How interacts with the team, leader, follows orders, etc.).
 - Will do (ambiotions)
 
-### Get the info you need
+##### Get the info you need
 
 - Exaplain the interview process.
 - Verify specific details: can do, will do, fit.
@@ -35,7 +35,7 @@ Explain how interview will proceed.
 	+ LH column: experience
 	+ RH column: Personality
 
-### How to end
+##### How to end
 
 * Self assessment
 	+  What are you most frequently critisied for?
@@ -48,7 +48,7 @@ Explain how interview will proceed.
 	+ Suitable: leave them with no doubts, sell position by their aspirations, 20 min., another interview, etc.
 	+ Not suitable: tell them why frankly.
 
-## Preparing to recruit an experienced executive
+#### Preparing to recruit an experienced executive
 STEP 1: Make a list of the criteria that need to be met in order to be eligible for the post
 * Begin with a description of the post.
 * List the essential requirements: training, professional experience, languages spoken, etc.
@@ -61,7 +61,7 @@ STEP 3: Identify the skills that need to be assessed during the interview
 * Begin with a description of the post to be filled.
 * Identify the skills that are essential for succeeding in it.
 
-## Deciding between experienced candidates when recruiting
+#### Deciding between experienced candidates when recruiting
 | Name | candidate1 | candidate2 | candidate3 |
 |---|---|---|---|
 | Key responsibilities (note 1-4) | | | |
@@ -69,3 +69,24 @@ STEP 3: Identify the skills that need to be assessed during the interview
 | Experience (1pt per) | | | |
 | Interest shown in the position (note 1-4) | | | |
 | Total points | | | |
+
+### Module 2 Competency-based interviews
+	* How to conduct performance reviews
+	* The future of performance appraisals
+	* Use empathy to make your performance review a success
+	* Getting staff members to express themselves during performance reviews
+	* How to conduct performance reviews
+
+### Module 3 Question and reformulation techniques
+	* Don't tell, ask
+	* Asking questions
+	* Rephrasing
+	* Preparing the wording for giving feedback
+	* Preparing the wording of a request
+
+### Module 4 Master the recruitment process
+	* Concluding the recruitment process
+	* There are no short cuts in a good hiring process
+	* Always hire for attitude
+	* Cultural fit is the key
+	* Recruit 'adults'

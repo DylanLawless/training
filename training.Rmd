@@ -38,5 +38,10 @@ Training from
 EPFL courses - Management training:
 <https://epfl.eu.crossknowledge.com/site/channel/248>
 
-```{r child = './recruitment.md'}
+# Chapter 1 - Management
+```{r child = './manage_recruitment_successfully.md'}
 ```
+# Chapter 2 - Personal Efficiency
+
+# Chapter 3 -  Communication
+
