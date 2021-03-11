@@ -1,0 +1,42 @@
+---
+title: "Career training"
+author:
+- Dylan Lawless
+
+output: 
+# # HTML
+#  bookdown::gitbook: default
+#  split_by: none
+
+# # PDF via tex
+  pdf_document:
+    latex_engine: xelatex
+    #citation_package: natbib
+    number_sections: true
+    toc: yes
+    toc_depth: 2
+    
+link-citations: yes
+linkcolor: blue
+subparagraph: yes
+citecolor: blue
+urlcolor: blue
+
+# # MS word
+  #word_document: default
+  # bookdown::word_document2: default  # for cross-references
+
+# pdf citations: \cite{key}
+# pdf, html and word citations: [@key]
+
+bibliography: ./references.bib
+
+---
+Training from 
+<https://epfl.eu.crossknowledge.com/site/home>
+
+EPFL courses - Management training:
+<https://epfl.eu.crossknowledge.com/site/channel/248>
+
+```{r child = './recruitment.md'}
+```
