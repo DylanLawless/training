@@ -1,7 +1,6 @@
 # Training
 A simple summary of training courses attended for career building skills.
-
-## Training from 
+Training from 
 <https://epfl.eu.crossknowledge.com/site/home>
 
 * EPFL courses - Management training:
