@@ -25,7 +25,12 @@ Training from
 # Chapter 3 -  Communication
 
 # Chapter 1 - Management
+
+
 ## MANAGE RECRUITMENT SUCCESSFULLY
+Found under: 
+	+ Home > My activity > Team Leaders > Manage recruitment successfull...
+
 * Ensure a structured recruitment process
 	- [x] How should recruiters approach interviews?
 	- [x] Conducting a recruitment interview with an experienced executive
@@ -40,11 +45,11 @@ Training from
 	- [ ] How to conduct performance reviews
 
 * Question and reformulation techniques
-	- [ ] Don't tell, ask
-	- [ ] Asking questions
-	- [ ] Rephrasing
-	- [ ] Preparing the wording for giving feedback
-	- [ ] Preparing the wording of a request
+	- [x] Don't tell, ask
+	- [x] Asking questions
+	- [x] Rephrasing
+	- [x] Preparing the wording for giving feedback
+	- [x] Preparing the wording of a request
 
 * Master the recruitment process
 	- [ ] Concluding the recruitment process

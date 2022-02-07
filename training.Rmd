@@ -1,5 +1,5 @@
 ---
-title: "Career training"
+title: "Career training: Chapter 1 - Management" 
 author:
 - Dylan Lawless
 
@@ -15,6 +15,11 @@ output:
     number_sections: true
     toc: yes
     toc_depth: 3
+
+header-includes:
+    - \usepackage{sectsty}
+    - \allsectionsfont{\color{red!80!blue}}
+    
     
 link-citations: yes
 linkcolor: blue
@@ -38,10 +43,14 @@ Training from
 EPFL courses - Management training:
 <https://epfl.eu.crossknowledge.com/site/channel/248>
 
-# Chapter 1 - Management
+<!-- # Chapter 1 - Management -->
 ```{r child = './management/manage_recruitment_successfully.md'}
 ```
-# Chapter 2 - Personal Efficiency
 
-# Chapter 3 -  Communication
+<!-- # Chapter 2 - Personal Efficiency -->
 
+<!-- # Chapter 3 -  Communication -->
+
+
+----
+This document is hosted on <https://github.com/DylanLawless/training>

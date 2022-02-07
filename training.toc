@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Manage Recruitment Successfully}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Module 1 Ensure a structured recruitment process}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}How should recruiters approach interviews?}{1}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Conducting a recruitment interview with an experienced executive}{1}{subsubsection.1.1.2}
+\contentsline {paragraph}{\numberline {1.1.2.1}Main issues to discuss}{2}{paragraph.1.1.2.1}
+\contentsline {paragraph}{\numberline {1.1.2.2}Get the info you need}{2}{paragraph.1.1.2.2}
+\contentsline {paragraph}{\numberline {1.1.2.3}How to end}{2}{paragraph.1.1.2.3}
+\contentsline {subsubsection}{\numberline {1.1.3}Preparing to recruit an experienced executive}{2}{subsubsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.4}Deciding between experienced candidates when recruiting}{2}{subsubsection.1.1.4}
+\contentsline {subsection}{\numberline {1.2}Module 2 Competency-based interviews}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Module 3 Question and reformulation techniques}{3}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Don't tell, ask}{3}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Asking questions}{3}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Rephrasing}{3}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.4}Preparing the wording for giving feedback}{4}{subsubsection.1.3.4}
+\contentsline {subsubsection}{\numberline {1.3.5}Preparing the wording of a request}{4}{subsubsection.1.3.5}
+\contentsline {subsection}{\numberline {1.4}Module 4 Master the recruitment process}{4}{subsection.1.4}
